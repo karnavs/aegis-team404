@@ -35,7 +35,7 @@ Traditional centralized systems suffer from: - Single point of failure\
 - Lack of transparency\
 - Security vulnerabilities
 
-La Casa solves this by: - Removing intermediaries\
+Aegis solves this by: - Removing intermediaries\
 - Providing cryptographic security\
 - Ensuring tamper-proof records\
 - Enabling automated contract execution
@@ -44,7 +44,7 @@ La Casa solves this by: - Removing intermediaries\
 
 ## 🏗️ System Architecture
 
-La Casa follows a decentralized blockchain architecture consisting of:
+Aegis follows a decentralized blockchain architecture consisting of:
 
 1.  Nodes\
 2.  Blocks\
