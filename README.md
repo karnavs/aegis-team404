@@ -167,10 +167,10 @@ npm start
 Members
 
 **U.M Dikshith Gowda** 
-**Member Name 2** 
-**Member Name 3** 
+**Karna VS** 
+**Likith M** 
 
-</div>
+
 
 ---
 
