@@ -1,12 +1,12 @@
-# 🏴‍☠️ La Casa -- Decentralized Blockchain Platform
+# 🏴‍☠️ Aegis -- Decentralized Blockchain Platform
 
 ## 📌 Project Overview
 
-**La Casa** is a secure, decentralized blockchain-based platform
+**Aegis** is a secure, decentralized blockchain-based platform
 designed to enable transparent, tamper-proof, and trustless digital
 transactions using smart contracts.
 
-The core idea behind La Casa is to eliminate dependency on centralized
+The core idea behind Aegis is to eliminate dependency on centralized
 authorities by leveraging blockchain technology for secure asset
 management, transaction validation, and immutable record keeping.
 
