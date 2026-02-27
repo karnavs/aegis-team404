@@ -162,17 +162,13 @@ npm start
 
 ## 👥 Team
 
-## 👥 Team  
-
-<div align="center">
-
 ### 🏴‍☠️ Aegis Core Team
 
-| Members |
-|----------|
-| **U.M Dikshith Gowda** |
-| **Member Name 2** |
-| **Member Name 3** |
+Members
+
+**U.M Dikshith Gowda** 
+**Member Name 2** 
+**Member Name 3** 
 
 </div>
 
