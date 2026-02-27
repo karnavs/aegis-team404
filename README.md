@@ -166,9 +166,9 @@ npm start
 
 Members
 
-**U.M Dikshith Gowda** 
-**Karna VS** 
-**Likith M** 
+| **U.M Dikshith Gowda** |
+| **Karna VS** |
+| **Likith M** |
 
 
 
