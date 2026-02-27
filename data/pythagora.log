@@ -1,0 +1,42 @@
+2026-02-27T09:18:29.416Z INFO Is remote: false
+2026-02-27T09:18:29.417Z INFO Starting Local. Installation path: c:\Users\Karna\.vscode
+2026-02-27T09:18:29.418Z INFO [MainProvider] Creating new MainProvider instance...
+2026-02-27T09:18:29.419Z INFO [TabsManager] Code view listener set up at initialization
+2026-02-27T09:18:29.419Z INFO Installation path exists: c:\Users\Karna\.vscode
+2026-02-27T09:18:29.420Z INFO Initializing database with URL: file:c:\Users\Karna\.vscode\pythagora-core\data\database\pythagora.db
+2026-02-27T09:18:29.422Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-02-27T09:18:29.424Z INFO Database initialized successfully
+2026-02-27T09:18:29.424Z INFO [Migration] Checking for database migration...
+2026-02-27T09:18:29.750Z INFO [Migration] No migration needed
+2026-02-27T09:18:35.282Z INFO [TabsManager] First file opened, triggering split view
+2026-02-27T09:18:35.283Z INFO [MainProvider] First file opened, creating split view
+2026-02-27T09:23:13.719Z INFO [TabsManager] First file opened, triggering split view
+2026-02-27T09:23:13.720Z INFO [MainProvider] First file opened, creating split view
+2026-02-27T09:28:31.680Z INFO Closing entire Pythagora extension...
+2026-02-27T09:28:31.682Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new rU (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120928)
+	at LE.U (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125538)
+	at r.<computed>.n.charCodeAt.r.<computed> (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123032)
+	at CA.g (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+	at CA.executeCommand (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+	at Object.executeCommand (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:104946)
+	at closeEntirePythagoraExtension (c:\Users\Karna\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+	at Object.deactivate (c:\Users\Karna\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+	at pee.eb (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11880)
+	at file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10030
+	at Array.map (<anonymous>)
+	at pee.$ (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10018)
+	at pee.terminate (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10261)
+	at nR.terminate (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at zr (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11144)
+	at MessagePortMain.<anonymous> (file:///c:/Users/Karna/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+	at Object.topLevelDomainCallback (node:domain:161:15)
+	at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+Extra context: {
+  "message": "Canceled"
+}
