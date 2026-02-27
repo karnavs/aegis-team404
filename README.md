@@ -164,8 +164,8 @@ npm start
 
 ### 🏴‍☠️ Aegis Core Team
 
-Members
-
+| Members |
+|----------|
 | **U.M Dikshith Gowda** |
 | **Karna VS** |
 | **Likith M** |
