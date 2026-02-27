@@ -160,9 +160,8 @@ npm start
 
 ---
 
-## 👥 Team
 
-### 🏴‍☠️ Aegis Core Team
+###  Aegis Core Team
 
 | Members |
 |----------|
