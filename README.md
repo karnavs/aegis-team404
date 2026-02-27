@@ -162,10 +162,19 @@ npm start
 
 ## 👥 Team
 
-* **Project Lead:** [Your Name]
-* **Blockchain Developer:** [Team Member Name]
-* **Frontend Developer:** [Team Member Name]
-* **Backend Developer:** [Team Member Name]
+## 👥 Team  
+
+<div align="center">
+
+### 🏴‍☠️ Aegis Core Team
+
+| Members |
+|----------|
+| **U.M Dikshith Gowda** |
+| **Member Name 2** |
+| **Member Name 3** |
+
+</div>
 
 ---
 
