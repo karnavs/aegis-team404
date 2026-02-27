@@ -161,7 +161,7 @@ npm start
 ---
 
 
-###   Aegis Core Team
+## 🤗 Aegis Core Team
 
 | Members |
 |----------|
