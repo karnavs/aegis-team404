@@ -161,11 +161,11 @@ npm start
 ---
 
 
-###  Aegis Core Team
+###   Aegis Core Team
 
 | Members |
 |----------|
-| **U.M Dikshith Gowda** |
+| **U.M Deekshith Gowda** |
 | **Karna VS** |
 | **Likith M** |
 
