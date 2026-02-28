@@ -1,6 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
 node_modules/
-.env
+package-lock.json
+
+# Hardhat
 artifacts/
 cache/
-coverage/
-dist/
+
+# Env
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Executables
+*.exe
